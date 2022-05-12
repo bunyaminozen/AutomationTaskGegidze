@@ -24,7 +24,7 @@ All automation is done in Java.
 * Page Object Model (POM) design pattern
 * Singleton design pattern
 * DDT with scenario outline
-* Have a supporting utilities package in *src/test/java/com/paysera* file path, named ***"utilities"*** that includes classes which services as a core engine for the project
+* Have a supporting utilities package in *src/test/java/com/gegidze* file path, named ***"utilities"*** that includes classes which services as a core engine for the project
 * Special for this task I prefer to put framework and tests in the same place
 
 ### How to run the project main test cases locally:
